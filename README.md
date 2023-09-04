@@ -4,14 +4,21 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий аналитик данных и бэкэнд разработчик на Python. Мой путь в it начался с изучения книг М.Лутца "Изучаем Python" и "Программирование на Python". Сейчас я прохожу курсы по изучению библиотек Python и анализу данных. Кроме того я пробую себя в кейсах по программированию, например Oilcase (участник полуфинала)
+Я аналитик данных и бэкэнд разработчик на Python. Мой путь в IT начался с изучения книг М.Лутца "Изучаем Python" и "Программирование на Python" и курсов от таких компаний как РОСАТОМ и Газпром ВНИИГАЗ. Кроме того я активно участвую в кейсах по программированию (например полуфинал IT трека Oilcase, пятое место хакатона ТЕХШТОРМ)
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
+- :telescope: Прошел курс "Поколение Python": курс для продвинутых на Stepic
 
 - :telescope: Участвовал в курсе по программированию «ВНИИГАЗ Интенсив 1.0».
+- :telescope: Получил паспорт компетенции "Программные решения для бизнеса" от РОСАТОМа
+
+- :telescope: Прошел курс "Интерактивный тренажер по SQL" на Stepic
+
+- :seedling: Пятое место в хаккаоне Техношторм
 
 - :seedling: Участвовал в полуфинала кейса по программированию Oilcase
+
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zo1otoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.zolotov.forgame@mail.ru)
 
 ---
@@ -33,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40"/>&nbsp
-
+  <img src="https://www.svgrepo.com/show/530439/api-interface.svg" title="html" alt="html" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -44,6 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/439268/postgresql.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
 ---
