@@ -15,9 +15,9 @@
 
 - :telescope: Прошел курс "Интерактивный тренажер по SQL" на Stepic
 
-- :seedling: Пятое место в хакатоне Техношторм
-
-- :seedling: Участвовал в полуфинала кейса по программированию Oilcase
+- :seedling: 1 место в Computational optics and imaging hackathon
+- :seedling: 3 место Gagarin Hackaton SENTIMENT TELEGRAM-КАНАЛОВ НА РЫНКЕ АКЦИЙ
+- :seedling: 2 место в хакатоне LetsHack
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zo1otoff) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.zolotov.forgame@mail.ru)
 
